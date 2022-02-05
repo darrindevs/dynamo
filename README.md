@@ -1,8 +1,4 @@
-# gatsby-bsr-starter
+# Dynamo
 
-- Gatsby Starter + Bootstrap React 
-- Light and Dark Navbars
-- Footer 
+- built from gatsby-bsr-starter
 
-Have fun! 
-# dynamo
