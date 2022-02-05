@@ -1,8 +1,21 @@
+
+/* 
+*********** Home ***********
+*/
+
+body {
+    background-color: black;
+}
+
 .col {
-    background-color: green;
+    background-color: black;
     justify-content: center;
 }
 
+.notice {
+    color: white;
+    padding-top: 100px;
+}
 
 /* 
 *********** Navbar Dark ***********
@@ -27,7 +40,7 @@
 .footer{
     margin-top: 1rem;
     padding: 1rem;
-    background-color: rgb(235, 195, 64);
+    background-color: black);
     position: fixed;
     bottom: 0;
     left: 0;

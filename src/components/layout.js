@@ -48,15 +48,11 @@ const Layout = ({ children }) => {
       {/* Custom Container */}
         <Container>
           <main>
+           
             <Row>
-              <Col>1 of 3</Col>
-              <Col>2 of 3 (wider)</Col>
-              <Col>3 of 3</Col>
-            </Row>
-            <Row>
-              <Col>1 of 3</Col>
-              <Col>{children}</Col>
-              <Col>3 of 3</Col>
+              <Col></Col>
+              <Col className="notice">{children}</Col>
+              <Col></Col>
             </Row>
           </main>
         </Container>
