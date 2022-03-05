@@ -49,24 +49,22 @@ const Layout = ({ children }) => {
         <Container>
           <main>
               <div id="" className="container">
-                <Row>
-                  <div className="col-sm-2"></div>
-                    <div id="about" className="col-sm-8">
-                      <h4>At Dynamo we help clients bring their projects to life. From strategic guidance to in-the-weeds design and dev work, we can help you find success.</h4>
-                        <div className="mt-5">
-                        <h6><i className="fad fa-dot-circle pr-2"></i>Full Stack Web 2/3 Development</h6>
-                          <h6><i className="fad fa-dot-circle pr-2"></i>Strategic Consulting</h6>
-                          <h6><i className="fad fa-dot-circle pr-2"></i>Custom Front-End Design</h6>
-                          <h6><i className="fad fa-dot-circle pr-2"></i>Subscriptions and Payments Infrastructure</h6>
-                          <h6><i className="fad fa-dot-circle pr-2"></i>Performance Marketing</h6>
-                      </div>
+                <Row id="dynamic">
+                  <div id="solutions">
+                      <h1 id="ookii">Dynamo</h1>
+                      <h5>Dynamic solutions for a digital world.</h5>
+                      <a href="/about" className="me-2"><small>About </small></a>
+                      <a href="mailto:hello@dynamo.dev" className="me-2"><small> Contact</small></a>
+                      <small className="cr">© Dynamo 2022</small>
                     </div>
-                  <div className="col-sm-2"></div>
                 </Row>
                 <Row>
-                  <div id="dynamic" className="">
-                    <a href="mailto:hello@dynamo.dev" class="mr-2"><small> Contact</small></a>
-                    <small class="cr">© Dynamo 2022</small>
+                  <div id="solutions">
+                    <h1 id="chisai">Dynamo</h1>
+                    <h5>Dynamic solutions for a digital world.</h5>
+                    <a href="/about" className="me-2"><small>About </small></a>
+                    <a href="mailto:hello@dynamo.dev" className="me-2"><small> Contact</small></a>
+                    <small className="cr">© Dynamo 2022</small>
                   </div>
                 </Row>
               </div>
