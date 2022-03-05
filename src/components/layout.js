@@ -11,9 +11,9 @@ import { useStaticQuery, graphql } from "gatsby"
 
 
 //import Header from "./header"
-import NavDark from "./nav-dark"
+//import NavDark from "./nav-dark"
 //import NavLight from "./nav-light"
-import Footer from "./footer"
+//import Footer from "./footer"
 //import "./layout.css"  
 // 👆 replaced with bootstrap minified 👇
 import 'bootstrap/dist/css/bootstrap.min.css'
@@ -43,8 +43,6 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       */}
       
-      {/* Custom Navbar */}
-      {NavDark}
       {/* Custom Container */}
         <Container>
           <main>
@@ -58,7 +56,7 @@ const Layout = ({ children }) => {
                       <small className="cr">© Dynamo 2022</small>
                     </div>
                 </Row>
-                <Row>
+                <Row id="dynamobile">
                   <div id="solutions">
                     <h1 id="chisai">Dynamo</h1>
                     <h5>Dynamic solutions for a digital world.</h5>
@@ -70,7 +68,7 @@ const Layout = ({ children }) => {
               </div>
           </main>
         </Container>
-        <Footer/>
+      
     </>
   )
 }
