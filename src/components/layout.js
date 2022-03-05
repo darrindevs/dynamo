@@ -50,7 +50,7 @@ const Layout = ({ children }) => {
                 <Row id="dynamic">
                   <div id="solutions">
                       <h1 id="ookii">Dynamo</h1>
-                      <h5>Dynamic solutions for a digital world.</h5>
+                      <h2 className="mb-3">Dynamic solutions for a digital world.</h2>
                       <a href="/about" className="me-2"><small>About</small></a>
                       <a href="mailto:hello@dynamo.dev" className="me-2"><small>Contact</small></a>
                       <small className="cr">© Dynamo 2022</small>
@@ -59,7 +59,7 @@ const Layout = ({ children }) => {
                 <Row id="dynamobile">
                   <div id="solutions">
                     <h1 id="chisai">Dynamo</h1>
-                    <h5>Dynamic solutions for a digital world.</h5>
+                    <h2 className="mb-3">Dynamic solutions for a digital world.</h2>
                     <a href="/about" className="me-2"><small>About</small></a>
                     <a href="mailto:hello@dynamo.dev" className="me-2"><small>Contact</small></a>
                     <small className="cr">© Dynamo 2022</small>
@@ -68,7 +68,6 @@ const Layout = ({ children }) => {
               </div>
           </main>
         </Container>
-      
     </>
   )
 }

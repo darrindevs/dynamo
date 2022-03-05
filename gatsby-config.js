@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Dynamic Solutions for a Digital World`,
-    description: `Bare bones Gatsby starter modified to use React Bootstrap`,
+    title: `Dynamo`,
+    description: `Dynamic Solutions for a Digital World`,
     author: `darrindevs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://dynamo.dev`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
