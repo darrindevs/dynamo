@@ -48,12 +48,28 @@ const Layout = ({ children }) => {
       {/* Custom Container */}
         <Container>
           <main>
-           
-            <Row>
-              <Col></Col>
-              <Col className="notice">{children}</Col>
-              <Col></Col>
-            </Row>
+              <div id="" className="container">
+                <Row>
+                  <div className="col-sm-2"></div>
+                    <div id="about" className="col-sm-8">
+                      <h4>At Dynamo we help clients bring their projects to life. From strategic guidance to in-the-weeds design and dev work, we can help you find success.</h4>
+                        <div className="mt-5">
+                        <h6><i className="fad fa-dot-circle pr-2"></i>Full Stack Web 2/3 Development</h6>
+                          <h6><i className="fad fa-dot-circle pr-2"></i>Strategic Consulting</h6>
+                          <h6><i className="fad fa-dot-circle pr-2"></i>Custom Front-End Design</h6>
+                          <h6><i className="fad fa-dot-circle pr-2"></i>Subscriptions and Payments Infrastructure</h6>
+                          <h6><i className="fad fa-dot-circle pr-2"></i>Performance Marketing</h6>
+                      </div>
+                    </div>
+                  <div className="col-sm-2"></div>
+                </Row>
+                <Row>
+                  <div id="dynamic" className="">
+                    <a href="mailto:hello@dynamo.dev" class="mr-2"><small> Contact</small></a>
+                    <small class="cr">© Dynamo 2022</small>
+                  </div>
+                </Row>
+              </div>
           </main>
         </Container>
         <Footer/>

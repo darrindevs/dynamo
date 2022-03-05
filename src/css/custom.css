@@ -7,15 +7,54 @@ body {
     background-color: black;
 }
 
-.col {
-    background-color: black;
-    justify-content: center;
-}
-
-.notice {
+h5 {
     color: white;
-    padding-top: 100px;
-}
+  }
+  
+  #dynamic {
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 50px;
+    padding-left: 20px;
+  }
+  
+  #about { 
+    padding-top: 50px;
+    color: #fff;
+  }
+  
+  .far {
+    color: white;
+  }
+  
+  .fab {
+    color: white;
+  }
+  
+  a { 
+    color: #edb625;
+   }
+  
+   a:hover { 
+    color: #e6186d;
+   }
+  
+   .fa-dot-circle { 
+    color: #e6186d;
+   }
+  
+   .cr {
+    color: #49c4a1;
+   }
+  
+  @media all and (max-width: 768px) {
+    #dynamic { order:; display: none; } 
+  }
+  
+  @media all and (min-width: 768px) {
+    #dynamobile { order:; display: none; } 
+  }
+  
 
 /* 
 *********** Navbar Dark ***********
@@ -46,3 +85,4 @@ body {
     left: 0;
     width: 100%;
   }
+
