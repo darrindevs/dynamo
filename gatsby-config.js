@@ -32,14 +32,6 @@ module.exports = {
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
-    // custom add - clicky https://www.skypack.dev/view/gatsby-plugin-clicky
-    {
-      resolve: `gatsby-plugin-clicky`,
-      options: {
-        siteId: '101297670'
-      }
-    }
+    // To learn more, visit: https://gatsby.dev/offline',
   ],
 }
