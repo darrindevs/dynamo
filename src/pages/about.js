@@ -20,7 +20,7 @@ const AboutPage = () => {
                   <div id="solutions">
                       <h3 className="mb-3">We help clients bring their projects to life.</h3>
                       <span><i class="fad fa-dot-circle pr-2"></i>Strategic Consulting</span>
-                      <span>Web 3 + NFT Dev</span>
+                      
                       <span><i class="fad fa-dot-circle pr-2"></i>Full Stack Web Dev + Design</span>
                       <span className="mb-3"><i class="fad fa-dot-circle pr-2"></i>Subscriptions + Payments Infrastructure</span>
                       <a href="/"><small>Dynamo</small></a>
@@ -32,7 +32,7 @@ const AboutPage = () => {
                   <div id="solutions">
                   <h3 className="mb-3">We help clients bring their projects to life.</h3>
                       <span><i class="fad fa-dot-circle pr-2"></i>Strategic Consulting</span>
-                      <span>Web 3 + NFT Dev</span>
+                  
                       <span><i class="fad fa-dot-circle pr-2"></i>Full Stack Web Dev + Design</span>
                       <span className="mb-3"><i class="fad fa-dot-circle pr-2"></i>Subscriptions + Payments Infrastructure</span>
                       <a href="/"><small>Dynamo</small></a>
