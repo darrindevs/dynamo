@@ -25,7 +25,7 @@ const AboutPage = () => {
                       <span className="mb-3"><i class="fad fa-dot-circle pr-2"></i>Subscriptions + Payments Infrastructure</span>
                       <a href="/"><small>Dynamo</small></a>
                       <a href="mailto:hello@dynamo.dev" className="ms-2 me-2"><small>Contact</small></a>
-                      <small className="cr">© Dynamo 2025</small>
+                      <small className="cr">© Dynamo 2026</small>
                     </div>
                 </Row>
                 <Row id="dynamobile">
@@ -37,7 +37,7 @@ const AboutPage = () => {
                       <span className="mb-3"><i class="fad fa-dot-circle pr-2"></i>Subscriptions + Payments Infrastructure</span>
                       <a href="/"><small>Dynamo</small></a>
                       <a href="mailto:hello@dynamo.dev" className="ms-2 me-2"><small>Contact</small></a>
-                      <small className="cr">© Dynamo 2025</small>
+                      <small className="cr">© Dynamo 2026</small>
                   </div>
                 </Row>
               </div>
