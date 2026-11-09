@@ -10,7 +10,7 @@ import { Row } from "react-bootstrap"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="⚡️ Dynamo" />
+    <Seo title="Zaino" />
   </Layout>
 )
 

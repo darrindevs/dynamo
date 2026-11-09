@@ -19,25 +19,25 @@ const AboutPage = () => {
                 <Row id="dynamic">
                   <div id="solutions">
                       <h3 className="mb-3">We help clients bring their projects to life.</h3>
-                      <span><i class="fad fa-dot-circle pr-2"></i>Strategic Consulting</span>
+                      <span><i class="fad fa-dot-circle pr-2"></i>Mobile Apps</span>
                       
-                      <span><i class="fad fa-dot-circle pr-2"></i>Full Stack Web Dev + Design</span>
+                      <span><i class="fad fa-dot-circle pr-2"></i>Full Stack Web Development</span>
                       <span className="mb-3"><i class="fad fa-dot-circle pr-2"></i>Subscriptions + Payments Infrastructure</span>
-                      <a href="/"><small>Dynamo</small></a>
-                      <a href="mailto:hello@dynamo.dev" className="ms-2 me-2"><small>Contact</small></a>
-                      <small className="cr">© Dynamo 2026</small>
+                      <a href="/"><small>Zaino</small></a>
+                      <a href="mailto:hello@zaino.co" className="ms-2 me-2"><small>Contact</small></a>
+                      <small className="cr">© Zaino 2026</small>
                     </div>
                 </Row>
                 <Row id="dynamobile">
                   <div id="solutions">
                   <h3 className="mb-3">We help clients bring their projects to life.</h3>
-                      <span><i class="fad fa-dot-circle pr-2"></i>Strategic Consulting</span>
+                      <span><i class="fad fa-dot-circle pr-2"></i>Mobile Apps</span>
                   
-                      <span><i class="fad fa-dot-circle pr-2"></i>Full Stack Web Dev + Design</span>
+                      <span><i class="fad fa-dot-circle pr-2"></i>Full Stack Web Development</span>
                       <span className="mb-3"><i class="fad fa-dot-circle pr-2"></i>Subscriptions + Payments Infrastructure</span>
-                      <a href="/"><small>Dynamo</small></a>
-                      <a href="mailto:hello@dynamo.dev" className="ms-2 me-2"><small>Contact</small></a>
-                      <small className="cr">© Dynamo 2026</small>
+                      <a href="/"><small>Zaino</small></a>
+                      <a href="mailto:hello@zaino.co" className="ms-2 me-2"><small>Contact</small></a>
+                      <small className="cr">© Zaino 2026</small>
                   </div>
                 </Row>
               </div>

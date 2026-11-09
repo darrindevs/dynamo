@@ -1,6 +1,6 @@
-# Dynamo
+# Zaino
 
 - built from gatsby-bsr-starter
 
-# dynamo
+# zaino
 .v1 clone of understrap-child 

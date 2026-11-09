@@ -49,20 +49,20 @@ const Layout = ({ children }) => {
               <div id="" className="container">
                 <Row id="dynamic">
                   <div id="solutions">
-                      <h1 id="ookii">Dynamo</h1>
+                      <h1 id="ookii">Zaino</h1>
                       <h2 className="mb-3">Dynamic solutions for a digital world.</h2>
                       <a href="/about" className="me-2"><small>About</small></a>
-                      <a href="mailto:hello@dynamo.dev" className="me-2"><small>Contact</small></a>
-                      <small className="cr">© Dynamo 2026</small>
+                      <a href="mailto:hello@zaino.co" className="me-2"><small>Contact</small></a>
+                      <small className="cr">© Zaino 2026</small>
                     </div>
                 </Row>
                 <Row id="dynamobile">
                   <div id="solutions">
-                    <h1 id="chisai">Dynamo</h1>
+                    <h1 id="chisai">Zaino</h1>
                     <h2 className="mb-3">Dynamic solutions for a digital world.</h2>
                     <a href="/about" className="me-2"><small>About</small></a>
-                    <a href="mailto:hello@dynamo.dev" className="me-2"><small>Contact</small></a>
-                    <small className="cr">© Dynamo 2026</small>
+                    <a href="mailto:hello@zaino.co" className="me-2"><small>Contact</small></a>
+                    <small className="cr">© Zaino 2026</small>
                   </div>
                 </Row>
               </div>

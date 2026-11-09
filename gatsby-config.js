@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Dynamo`,
+    title: `Zaino`,
     description: `Dynamic Solutions for a Digital World`,
-    author: `darrindevs`,
-    siteUrl: `https://dynamo.dev`,
+    author: `Zaino`,
+    siteUrl: `https://zaino.co`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
